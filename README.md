@@ -24,11 +24,6 @@ The **Pump.fun Smart Contract forking** is an innovative platform  designed to a
 #### Add whitelist: [7Z9Fz18Eo99MAupb7tdSuMiYcz3pqvJdnCqKhWQuGrFtKcBKoxWJFKrk6H8Zqy5NvxgvZaukf2BgN4cvKTGhyju](https://solscan.io/tx/7Z9Fz18Eo99MAupb7tdSuMiYcz3pqvJdnCqKhWQuGrFtKcBKoxWJFKrk6H8Zqy5NvxgvZaukf2BgN4cvKTGhyju?cluster=devnet)
 #### Migrate meteora: [524N14xCr75EiWP96xeQ6hFUxE8ewspjCbWUxqRZnCZfdGgCLVZDFuvxAQGka6rtArgKFDcPi2JYVU9JowyZvC8Z](https://solscan.io/tx/524N14xCr75EiWP96xeQ6hFUxE8ewspjCbWUxqRZnCZfdGgCLVZDFuvxAQGka6rtArgKFDcPi2JYVU9JowyZvC8Z?cluster=devnet)
 
-
-## 📞 Contact Info
-
-### Telegram: [enlomy](https://t.me/enlomy)
-
 ## 🍵 Tip
 
 ### If you are interested in my projects, please 🔗fork or give me ⭐star
