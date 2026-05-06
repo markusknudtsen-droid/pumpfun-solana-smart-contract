@@ -34,7 +34,7 @@ pub struct AddLiquidity<'info> {
     )]
     pub pool: Box<Account<'info, LiquidityPool>>,
 
-    /// CHECK:
+    /// CHECK: PDA derived from seeds [SOL_VAULT_PREFIX, token_mint], validated by the seeds constraint.
     #[account(
         mut,
         seeds = [LiquidityPool::SOL_VAULT_PREFIX.as_bytes(), token_mint.key().as_ref()],

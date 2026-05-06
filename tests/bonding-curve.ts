@@ -13,7 +13,6 @@ import { ASSOCIATED_PROGRAM_ID, TOKEN_PROGRAM_ID } from "@coral-xyz/anchor/dist/
 const connection = new Connection("http://localhost:8899")
 const curveSeed = "CurveConfiguration"
 const POOL_SEED_PREFIX = "liquidity_pool"
-const LIQUIDITY_SEED = "LiqudityProvider"
 const SOL_VAULT_PREFIX = "liquidity_sol_vault"
 
 /**
